@@ -1,0 +1,15 @@
+C:\Users\argo\review_one\MitjanasRefactoritzat\bin\Debug\net8.0\MitjanasRefactoritzat.exe
+C:\Users\argo\review_one\MitjanasRefactoritzat\bin\Debug\net8.0\MitjanasRefactoritzat.deps.json
+C:\Users\argo\review_one\MitjanasRefactoritzat\bin\Debug\net8.0\MitjanasRefactoritzat.runtimeconfig.json
+C:\Users\argo\review_one\MitjanasRefactoritzat\bin\Debug\net8.0\MitjanasRefactoritzat.dll
+C:\Users\argo\review_one\MitjanasRefactoritzat\bin\Debug\net8.0\MitjanasRefactoritzat.pdb
+C:\Users\argo\review_one\MitjanasRefactoritzat\obj\Debug\net8.0\MitjanasRefactoritzat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\argo\review_one\MitjanasRefactoritzat\obj\Debug\net8.0\MitjanasRefactoritzat.AssemblyInfoInputs.cache
+C:\Users\argo\review_one\MitjanasRefactoritzat\obj\Debug\net8.0\MitjanasRefactoritzat.AssemblyInfo.cs
+C:\Users\argo\review_one\MitjanasRefactoritzat\obj\Debug\net8.0\MitjanasRefactoritzat.csproj.CoreCompileInputs.cache
+C:\Users\argo\review_one\MitjanasRefactoritzat\obj\Debug\net8.0\MitjanasRefactoritzat.sourcelink.json
+C:\Users\argo\review_one\MitjanasRefactoritzat\obj\Debug\net8.0\MitjanasRefactoritzat.dll
+C:\Users\argo\review_one\MitjanasRefactoritzat\obj\Debug\net8.0\refint\MitjanasRefactoritzat.dll
+C:\Users\argo\review_one\MitjanasRefactoritzat\obj\Debug\net8.0\MitjanasRefactoritzat.pdb
+C:\Users\argo\review_one\MitjanasRefactoritzat\obj\Debug\net8.0\MitjanasRefactoritzat.genruntimeconfig.cache
+C:\Users\argo\review_one\MitjanasRefactoritzat\obj\Debug\net8.0\ref\MitjanasRefactoritzat.dll
