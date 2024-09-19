@@ -16,7 +16,7 @@ public class Program
         int[] scores = new int[numScore];
         for (int i = 0; i < scores.Length; i++)
         {
-            Console.WriteLine("Introdueix la nota " + (i+1) + ": ");
+            Console.WriteLine("Introdueix la nota " + (i + 1) + ": ");
             scores[i] = Convert.ToInt32(Console.ReadLine());
             if (scores[i] < 0 || scores[i] > 10)
             {
@@ -35,6 +35,26 @@ public class Program
         {
             Console.WriteLine(Suspes);
         }
+
+        string MsgPostalCity = "Quantes ciutats vols introduïr?";
+        int numCity;
+        string CityMsg = "Introdueix la ciutat ";
+        string PostalMsg = "Introdueix el codi postal de la ciutat ";
+        Console.WriteLine(MsgPostalCity);
+        numCity = Convert.ToInt32(Console.ReadLine());
+        Dictionary<string, int> ciutats = new Dictionary<string, int>();
+        for (int i = 0; i < numCity; i++)
+        {
+            Console.WriteLine(CityMsg + (i + 1) + ": ");
+            string city = Console.ReadLine();
+            Console.WriteLine(PostalMsg + (i + 1) + ": ");
+            int postal = Convert.ToInt32(Console.ReadLine());
+            ciutats.Add(city, postal);
+        }
+        foreach (var ciutat in ciutats)
+        {
+            Console.WriteLine("La ciutat " + ciutat.Key + " té el codi postal " + ciutat.Value);
+        }
     }
     public static float Mitjana(int[] scores)
     {
@@ -48,5 +68,5 @@ public class Program
         }
         promig = summ / divider;
         return promig;
-    }   
+    }
 }
